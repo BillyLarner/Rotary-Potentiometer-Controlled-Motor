@@ -1,5 +1,5 @@
 # Rotary-Potentiometer-Controlled-Motor
-A quick program to contol the speed and direction of a motor using rotart potentiometer.
+A quick program to control the speed and direction of a motor using rotary potentiometer.
 
 This program was created using the FreeNove's starter kit.
 
